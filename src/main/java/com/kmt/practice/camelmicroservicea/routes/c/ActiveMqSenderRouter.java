@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.c;
+package com.kmt.practice.camelmicroservicea.routes.c;
 
 import java.io.IOException;
 import java.security.Key;

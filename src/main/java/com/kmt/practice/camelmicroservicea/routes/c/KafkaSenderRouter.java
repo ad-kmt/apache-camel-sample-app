@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.c;
+package com.kmt.practice.camelmicroservicea.routes.c;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;

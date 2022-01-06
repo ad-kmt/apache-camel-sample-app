@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.b;
+package com.kmt.practice.camelmicroservicea.routes.b;
 
 import org.apache.camel.Body;
 import org.apache.camel.ExchangeProperties;

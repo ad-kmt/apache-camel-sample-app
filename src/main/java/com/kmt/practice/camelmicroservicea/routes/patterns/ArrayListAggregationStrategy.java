@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.patterns;
+package com.kmt.practice.camelmicroservicea.routes.patterns;
 
 import java.util.ArrayList;
 

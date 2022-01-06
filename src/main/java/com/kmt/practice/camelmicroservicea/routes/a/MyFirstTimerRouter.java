@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.a;
+package com.kmt.practice.camelmicroservicea.routes.a;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;

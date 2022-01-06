@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.camelmicroservicea;
+package com.kmt.practice.camelmicroservicea;
 
 import java.math.BigDecimal;
 

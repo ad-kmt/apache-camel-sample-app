@@ -1,8 +1,9 @@
-package com.in28minutes.microservices.camelmicroservicea.routes.patterns;
+package com.kmt.practice.camelmicroservicea.routes.patterns;
 
 import java.util.List;
 import java.util.Map;
 
+import com.kmt.practice.camelmicroservicea.CurrencyExchange;
 import org.apache.camel.Body;
 import org.apache.camel.ExchangeProperties;
 import org.apache.camel.Headers;
@@ -12,8 +13,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import com.in28minutes.microservices.camelmicroservicea.CurrencyExchange;
 
 //@Component
 public class EipPatternsRouter extends RouteBuilder{
